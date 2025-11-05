@@ -2,3 +2,6 @@ initial_prototypes/
 *.ipynb_checkpoints
 ByteTrack/
 TEST_backup.ipynb
+ASSISTIVE_VISION
+utils
+yoloModel
